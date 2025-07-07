@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         REPO = "https://github.com/ragh945/Python-Basic-Programs.git"
-        FILE = "Problemsolving1.ipynb"     // Your Jupyter Notebook file
+        FILE = "pp2.ipynb"     // Your Jupyter Notebook file
         PYTHON = "D:\\Streamlit\\CONDA\\python.exe"
         PIP = "D:\\Streamlit\\CONDA\\Scripts\\pip.exe"
         JUPYTER_ALLOW_INSECURE_WRITES = "1"
