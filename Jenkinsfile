@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        REPO = "https://github.com/your-username/your-repo.git"
-        FILE = "basic_programs.ipynb"     // Your Jupyter Notebook file
+        REPO = "https://github.com/ragh945/Python-Basic-Programs.git"
+        FILE = "Problemsolving.ipynb"     // Your Jupyter Notebook file
         PYTHON = "D:\\Streamlit\\CONDA\\python.exe"
         PIP = "D:\\Streamlit\\CONDA\\Scripts\\pip.exe"
         JUPYTER_ALLOW_INSECURE_WRITES = "1"
